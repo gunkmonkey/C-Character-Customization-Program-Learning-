@@ -1,0 +1,14 @@
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\bin\Debug\net8.0\PartyCreator.exe
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\bin\Debug\net8.0\PartyCreator.deps.json
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\bin\Debug\net8.0\PartyCreator.runtimeconfig.json
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\bin\Debug\net8.0\PartyCreator.dll
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\bin\Debug\net8.0\PartyCreator.pdb
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.AssemblyInfoInputs.cache
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.AssemblyInfo.cs
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.csproj.CoreCompileInputs.cache
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.dll
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\refint\PartyCreator.dll
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.pdb
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\PartyCreator.genruntimeconfig.cache
+C:\Users\joosi\Desktop\CodeProjects\CsharpProjects\PartyCreator\obj\Debug\net8.0\ref\PartyCreator.dll
